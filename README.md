@@ -1,4 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/100531989/157435498-c91a9bea-503d-4f4b-aa64-9f8dc86d0723.png)
+![github-header-image (6)](https://user-images.githubusercontent.com/100531989/157460924-1f4837aa-ece0-4685-9710-1e6939cc52c9.png)
 
 
 
@@ -7,8 +7,7 @@
 
 
 
-
-<h1 align="center">Hello there And Welcome To My Profile!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">And Welcome To My Profile!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h2 align="center">I Am a  👇</h2>
 <ul>
   <li>14 Year Old Coder Ready For Anything, In The Future I Will Like To Help This World A Little Bit Better And Become An Excellent Coder...</li>
